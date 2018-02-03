@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\bin\Debug\SomeRandomFormAlgorithm.exe.config
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\bin\Debug\SomeRandomFormAlgorithm.exe
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\bin\Debug\SomeRandomFormAlgorithm.pdb
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.Form1.resources
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.Properties.Resources.resources
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.csproj.GenerateResource.Cache
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.exe
+C:\Users\root\source\repos\SomeRandomFormAlgorithm\SomeRandomFormAlgorithm\obj\Debug\SomeRandomFormAlgorithm.pdb
